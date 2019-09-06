@@ -46,9 +46,11 @@ body {
 .footer {
 	text-align: right;
 }
+
 #column img {
 	border: 2px solid #778899;
 }
+
 #column img:hover {
 	border-color: #707070;
 	border-width: 4px;
